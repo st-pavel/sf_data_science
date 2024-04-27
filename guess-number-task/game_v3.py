@@ -15,7 +15,7 @@ def game_core_v3(number: int = 1) -> int:
     predict = np.random.randint(1, 101)
 
     min = 0
-    max = 100
+    max = 101
 
     while number != predict:
         count += 1
