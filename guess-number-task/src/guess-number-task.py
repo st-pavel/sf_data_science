@@ -2,6 +2,10 @@ import numpy as np
 import game_v2
 import game_v3
 
+'''
+Основной модуль проекта
+'''
+
 def score_game(random_predict) -> int:
     """За какое количство попыток в среднем за 1000 подходов угадывает наш алгоритм
 
