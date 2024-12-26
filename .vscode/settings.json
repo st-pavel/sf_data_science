@@ -1,4 +1,5 @@
 {
     "python.analysis.autoImportCompletions": true,
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "copilotGpt.settings.apiKey": "shds-GC5gBOSka66qZW64dghr0nA6sCU"
 }

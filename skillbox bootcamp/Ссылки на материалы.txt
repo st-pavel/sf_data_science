@@ -1,0 +1,30 @@
+
+1 урок: Знакомство с языком Python: учим бота превращать голос в текст 
+
+Ссылка на урок: https://live.skillbox.ru/webinars/code/znakomstvo-s-yazykom-python-uchim-bota-prevrashat-golos-v-tekst100423/?key=token 
+Материалы, коды и т.д. для урока: 
+1. Рабочая тетрадь https://colab.research.google.com/drive/1ZRDVHaq_kolboPZR7k4Pg5yN_DcoU9bx?usp=sharing 
+2. Рабочая тетрадь https://colab.research.google.com/drive/1GNDCx0vNXBuDKnt7H1fJmIzQHJNWh57i?usp=sharing 
+3. Видео с решением: https://youtu.be/xeNK4m67e1o 
+
+2 урок: Учим бота обрабатывать файлы и редактировать фото
+
+Ссылка на урок: https://live.skillbox.ru/webinars/code/uchim-bota-obrabatyvat-faily-i-redaktirovat-foto110423/?key=token 
+Материалы, коды и т.д. для урока: 
+1. Рабочая тетрадь https://colab.research.google.com/drive/1zWV-CLjbiiKqL6c_GCzIx5opd8oiwVm3?usp=sharing
+2. Видео с решением: https://youtu.be/Pl9PlAQl7P4 
+
+3 урок: Собираем информацию из интернета в таблицу — парсинг  
+
+Ссылка на урок: https://live.skillbox.ru/webinars/code/sobiraem-informaciyu-iz-interneta-v-tablicu-parsing120423/?key=token 
+Материалы, коды и т.д. для урока: 
+1. Рабочая тетрадь https://colab.research.google.com/drive/1odrq97MKZHByxKpAO6r7Rt3kqBdTiE-j?usp=sharing
+2. Видео с решением: https://youtu.be/x8PbIkpBEp8 
+
+
+4 урок: Делаем сайт на Flask  
+
+Ссылка на урок: https://live.skillbox.ru/webinars/code/delaem-sait-na-flask130423/?key=token 
+Материалы, коды и т.д. для урока: 
+1. Рабочая тетрадь https://colab.research.google.com/drive/1E-xW89jrDKS2ingbFEgDzQABveoajvv3?usp=sharing
+2. Видео с решением: https://youtu.be/xeUC19eU4Sg
