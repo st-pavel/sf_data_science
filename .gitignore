@@ -1,0 +1,9 @@
+20241226_skillfactory.zip
+.venv/*
+*.venv*/*
+*.idea/*
+.gigaidea/*
+.vscode/*
+antiter/data/*.xml
+antiter/data/*.zip
+antiter/data/16.12.2024.doc
